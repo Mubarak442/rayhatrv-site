@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">ريحانة للسفر والسياحة</title>
+  <desc id="desc">شعار ريحانة للسفر والسياحة</desc>
+  <defs>
+    <linearGradient id="emerald" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b7564"/>
+      <stop offset="1" stop-color="#06473f"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f3d486"/>
+      <stop offset="1" stop-color="#c9993f"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="480" height="480" rx="112" fill="url(#emerald)"/>
+  <circle cx="256" cy="256" r="187" fill="none" stroke="url(#gold)" stroke-width="12"/>
+  <path d="M150 286c18-67 63-114 133-139-13 34-11 65 7 92-38 3-75 19-108 47-10 9-20 9-32 0Z" fill="url(#gold)"/>
+  <path d="M162 337c36-48 75-78 117-89 37-10 65-29 83-57-2 56-24 105-67 143-34 30-78 39-133 27Z" fill="#fff" opacity=".94"/>
+  <path d="M171 352c48-31 94-65 137-102 25-22 42-43 54-64" fill="none" stroke="#0b5f52" stroke-width="10" stroke-linecap="round"/>
+  <path d="M185 394h142" stroke="url(#gold)" stroke-width="10" stroke-linecap="round"/>
+  <text x="256" y="430" text-anchor="middle" fill="#fff" font-family="Tahoma, Arial, sans-serif" font-size="28" font-weight="700">ريحانة</text>
+</svg>
